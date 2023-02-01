@@ -1,0 +1,31 @@
+{
+  "name": "test-case",
+  "version": "1.0.0",
+  "description": "study about unit tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LpxsBr/unit-test.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "test",
+    "case",
+    "js",
+    "node",
+    "react"
+  ],
+  "author": "Anselmo Lopes (LpxsBr)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LpxsBr/unit-test/issues"
+  },
+  "homepage": "https://github.com/LpxsBr/unit-test#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
